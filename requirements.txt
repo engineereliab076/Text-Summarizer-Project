@@ -15,7 +15,7 @@ boto3
 mypy-boto3-s3
 python-box==6.0.2
 ensure==1.0.2
-git+https://github.com/tiangolo/fastapi.git@main#egg=fastapi
-git+https://github.com/encode/uvicorn.git@main#egg=uvicorn
+fastapi==0.78.0
+uvicorn==0.18.3
 Jinja2==3.1.2
 -e .
